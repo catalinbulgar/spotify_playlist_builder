@@ -1,6 +1,6 @@
 # Spotify Playlist Builder
 
-Round-robin playlist builder for club nights. Interleaves songs from active dancers, respects conflict rules (who doesn't want to perform after whom), and pushes the result directly to a Spotify playlist.
+Round-robin playlist builder for night clubs. Interleaves songs from active dancers, respects conflict rules (who doesn't want to perform after whom), and pushes the result directly to a Spotify playlist.
 
 ## Setup
 
