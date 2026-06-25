@@ -1,0 +1,15 @@
+# Spotify credentials and local configuration
+.env
+.cache
+
+# Private dancer and song data
+dancers_songs.py
+
+# Python virtual environment and caching
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyCharm / IDE settings
+.idea/
